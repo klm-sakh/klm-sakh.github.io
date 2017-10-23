@@ -4,6 +4,6 @@
 <h1>Hello World YO</h1>
   <p><a href="https://www.sakh.com">I'm hosted with GitHub Pages.</a>
   </p>
-  <!-- #include virtual="price.txt" -->
+  <!--#include virtual="price.html"-->
 </body>
 </html>
