@@ -2,6 +2,7 @@
 <html>
 <body>
 <h1>Hello World YO</h1>
+<!--#include virtual="/1.html"-->
   <p>I'm hosted with GitHub Pages.</p>
   <!--#include virtual="/include/price.txt"-->
   <tr>
