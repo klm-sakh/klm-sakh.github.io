@@ -4,5 +4,8 @@
 <h1>Hello World YO</h1>
   <p>I'm hosted with GitHub Pages.</p>
   <!--#include virtual="/include/price.txt"-->
+  <tr>
+<td colspan="2" height="50"><h4>Подвал сайта</h4> Здесь авторские права, дата, адрес, счётчики..</td>
+</tr>
 </body>
 </html>
