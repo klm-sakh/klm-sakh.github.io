@@ -3,7 +3,7 @@
 <body>
 <h1>Hello World YO</h1>
   <p><a href="https://www.sakh.com">I'm hosted with GitHub Pages.</a>
-  <!--#include virtual="include/price.txt"-->
+  <!--#include virtual="klm-sakh.github.io/include/price.txt"-->
   </p>
 </body>
 </html>
