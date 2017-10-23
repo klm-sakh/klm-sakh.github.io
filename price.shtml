@@ -1,1 +1,9 @@
-<!--#include virtual="include/footer.txt"-->
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World YO</h1>
+  <p><a href="https://www.sakh.com">I'm hosted with GitHub Pages.</a>
+  <!--#include virtual="include/price.txt"-->
+  </p>
+</body>
+</html>
