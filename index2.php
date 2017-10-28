@@ -31,7 +31,7 @@
 w3.includeHTML();
 </script>
     
-    <?php include ("about2.html"); ?>
+    <?php include ("/about2.html"); ?>
     
   </body>
 </html>
